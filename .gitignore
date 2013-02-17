@@ -162,9 +162,9 @@ pip-log.txt
 # Mac crap
 .DS_Store
 
-#########
-# LaTeX
-#########
+###########
+## LaTeX
+###########
 
 # Auxilary files
 *.aux
