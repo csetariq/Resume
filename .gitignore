@@ -183,3 +183,6 @@ pip-log.txt
 
 *.docx
 *.doc
+
+# Intermediate files
+*.dvi
