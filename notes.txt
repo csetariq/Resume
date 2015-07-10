@@ -1,0 +1,82 @@
+First goes the contact information
+
+4021A Ramnagar
+Madippakkam
+Chennai
+
+mobile: 9940223113
+e-mail: csetariq@gmail.com
+
+Areas of interest
+
+Data Structures, Object Oriented Programming, Computer Networks
+
+
+Education
+
+SNS College of Technology, Coimbatore, Tamilnadu
+Bachelor in Computer Science and Engineering: August 2008 - April 2012
+Anna University, Chennai
+Overall GPA: 8.5/10
+
+Govt Boys Higher Secondary School, Udumalpet
+HSC: June 2007 - March 2008
+Tamilnadu Board of Secondary Education
+Percentile: 81.4
+
+Govt Boys Higher Secondary School, Udumalpet
+SSLC: June 2005 - April 2006
+Tamilnadu Board of Secondary Education
+Percentile: 83.2
+
+
+Skill Set
+
+Programming Languages: Java(proficient), C(strong), Python(intermediate), Perl(intermediate)
+Databases: MySQL, Oracle, Sybase
+Frameworks: Sruts, Spring, Hibernate
+Developer Tools: Eclipse, Git, Subversion, Perforce, Toad, Vim, Notepad++
+Others: Linux, Bash, PHP
+Good problem solving ability
+
+
+Professional Experience
+
+Software Engineer
+HCL Technologies, Chennai, India
+Jul 2013 - present
+
+Relevant skills: Java, Perl, MySQL, Oracle PL/SQL, Struts, Hibernate, Spring
+
+
+Projects
+
+Cisco Service Control Management Suite Collection Manager
+Jul 2013 - Feb 2015
+HCL Techonologies, Chennai, India
+
+Service Control Engine (SCE) is a Deep Packet Inspection (DPI) solution that performs classification and control of application level IP traffic of subscribers. The Collection Manager is a component of Service Control solution that takes care of collecting the information for the purpose of analysis/billing
+
+[http://www.cisco.com/c/en/us/products/service-exchange/sce-8000-series-service-control-engine/index.html]
+
+Java | MySQL | Linux | Oracle | Eclipse | Bash | Perforce | Apache Velocity
+
+Notable Acheivements
+
+***
+
+
+Network Profile
+Mar 2015 - present
+HCL Techonologies, Chennai, India
+
+Network Profile is a Network Inventory and Configuration analyzer that allows Network Control Engineers to view and maintain their network in a centralized location and to collaborate between themselves
+
+[http://www.cisco.com/web/tsweb/tools/network-profile/index.html]
+
+Java | Perl | Linux | Hibernate | Eclipse | Bash | Struts | Tomcat | Apache HTTP server | JAXB | Spring-bean
+
+
+Small scale software undertakings
+
+
