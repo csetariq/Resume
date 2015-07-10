@@ -68,7 +68,7 @@ Notable Acheivements
 
 Network Profile
 Mar 2015 - present
-HCL Techonologies, Chennai, India
+HCL Technologies, Chennai, India
 
 Network Profile is a Network Inventory and Configuration analyzer that allows Network Control Engineers to view and maintain their network in a centralized location and to collaborate between themselves
 
