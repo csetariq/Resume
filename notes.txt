@@ -1,18 +1,16 @@
-First goes the contact information
+#First goes the contact information
 
-4021A Ramnagar
-Madippakkam
-Chennai
+        
 
 mobile: 9940223113
 e-mail: csetariq@gmail.com
 
-Areas of interest
+#Areas of interest
 
 Data Structures, Object Oriented Programming, Computer Networks
 
 
-Education
+#Education
 
 SNS College of Technology, Coimbatore, Tamilnadu
 Bachelor in Computer Science and Engineering: August 2008 - April 2012
@@ -30,17 +28,17 @@ Tamilnadu Board of Secondary Education
 Percentile: 83.2
 
 
-Skill Set
+#Skill Set
 
 Programming Languages: Java(proficient), C(strong), Python(intermediate), Perl(intermediate)
 Databases: MySQL, Oracle, Sybase
-Frameworks: Sruts, Spring, Hibernate
+Frameworks: Struts, Spring, Hibernate
 Developer Tools: Eclipse, Git, Subversion, Perforce, Toad, Vim, Notepad++
-Others: Linux, Bash, PHP
+Others: Linux, Bash, PHP, TCP/IP, HTTP
 Good problem solving ability
 
 
-Professional Experience
+#Professional Experience
 
 Software Engineer
 HCL Technologies, Chennai, India
@@ -49,11 +47,11 @@ Jul 2013 - present
 Relevant skills: Java, Perl, MySQL, Oracle PL/SQL, Struts, Hibernate, Spring
 
 
-Projects
+#Projects
 
 Cisco Service Control Management Suite Collection Manager
 Jul 2013 - Feb 2015
-HCL Techonologies, Chennai, India
+HCL Technologies, Chennai, India
 
 Service Control Engine (SCE) is a Deep Packet Inspection (DPI) solution that performs classification and control of application level IP traffic of subscribers. The Collection Manager is a component of Service Control solution that takes care of collecting the information for the purpose of analysis/billing
 
@@ -61,9 +59,11 @@ Service Control Engine (SCE) is a Deep Packet Inspection (DPI) solution that per
 
 Java | MySQL | Linux | Oracle | Eclipse | Bash | Perforce | Apache Velocity
 
-Notable Acheivements
+Notable Achievements
 
-***
+Improved the processing rate by 36% by optimizing the Task submission using a buffer
+
+Improved the Tethering Detection accuracy by 54% by optimizing the regular expression based on manual analysis of User-Agent strings
 
 
 Network Profile
@@ -77,6 +77,33 @@ Network Profile is a Network Inventory and Configuration analyzer that allows Ne
 Java | Perl | Linux | Hibernate | Eclipse | Bash | Struts | Tomcat | Apache HTTP server | JAXB | Spring-bean
 
 
-Small scale software undertakings
+#Small-scale Software undertakings
 
+Implemented Community-Based Preference-Aware Location Recommendation System. When a user performs check-in a location, It recommends him/her locations that he/she would potentially likes to visit. Recommendations are based on interests of them or people with similar interest.
 
+Implemented Decision Tree-based Missing Value Imputation (DMI) Algorithm. It imputes missing values in a data set using Decision tree to make it complete; such complete data set would then be used for Data Mining.
+
+Developed Quiz Master, an interactive application to conduct quiz-alike competition to a number of candidates at a time. It includes randomization of question sample to avoid delivery of questions in the same order for each candidate. It also features necessary settings such as time limit, number of questions etc.
+Available at https://github.com/csetariq/quizmaster
+
+Developed GPA Calculator, a web-based application to calculate Grade Point Average of Semester results.
+Available at http://visitme.heliohost.org
+
+Developed an SMS based BMI Calculator. This application is developed on txtWeb platform. It allows mobile users to know their BMI through an SMS.
+Available at http://www.txtweb.com/apps/idealbmi
+
+Other works can be viewed at GitHub https://github.com/csetariq
+
+#Technical Abilities
+
+Apart from the described undertakings, I love solving programming problems. My public profile can be viewed at https://www.hackerearth.com/users/csetariq
+
+I also have an interest in writing programs for little utility tasks and enjoy solving such problems
+
+#Personal profile
+
+Father's Name : A G Kamardeen
+Date of birth : 3 July 1991
+Gender : Male
+Nationality : Indian
+Languages known : English, Tamil
