@@ -53,7 +53,7 @@ Cisco Service Control Management Suite Collection Manager
 Jul 2013 - Feb 2015
 HCL Technologies, Chennai, India
 
-Service Control Engine (SCE) is a Deep Packet Inspection (DPI) solution that performs classification and control of application level IP traffic of subscribers. The Collection Manager is a component of Service Control solution that takes care of collecting the information for the purpose of analysis/billing
+Service Control Engine (SCE) is a Deep Packet Inspection (DPI) solution that performs classification and control of application level IP traffic of subscribers. The Collection Manager is a component of Service Control solution that takes care of collecting the information from SCE for the purpose of analysis/billing
 
 [http://www.cisco.com/c/en/us/products/service-exchange/sce-8000-series-service-control-engine/index.html]
 
